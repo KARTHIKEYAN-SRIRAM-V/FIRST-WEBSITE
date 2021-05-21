@@ -5,3 +5,4 @@ myvenv
 db.sqlite3  
 /static  
 .DS_Store  
+personal_portfolio/__pycache__/settings.cpython-39.pyc
