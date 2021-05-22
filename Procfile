@@ -1,1 +1,1 @@
-web: gunicorn FIRST-WEBSITE.wsgi 
+web: gunicorn personal_portfolio.wsgi 
